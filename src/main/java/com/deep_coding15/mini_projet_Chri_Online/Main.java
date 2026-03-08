@@ -1,4 +1,4 @@
-package com.deep_coding15;
+package com.deep_coding15.mini_projet_Chri_Online;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
